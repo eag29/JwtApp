@@ -1,0 +1,15 @@
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\obj\Debug\net6.0\Eag.Jwt.Onion.Core.App.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\obj\Debug\net6.0\Eag.Jwt.Onion.Core.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\obj\Debug\net6.0\Eag.Jwt.Onion.Core.App.AssemblyInfoInputs.cache
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\obj\Debug\net6.0\Eag.Jwt.Onion.Core.App.AssemblyInfo.cs
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\obj\Debug\net6.0\Eag.Jwt.Onion.Core.App.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\bin\Debug\net6.0\Eag.Jwt.Onion.Core.App.deps.json
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\bin\Debug\net6.0\Eag.Jwt.Onion.Core.App.dll
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\bin\Debug\net6.0\Eag.Jwt.Onion.Core.App.pdb
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\bin\Debug\net6.0\Eag.Jwt.Onion.Core.Domain.dll
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\bin\Debug\net6.0\Eag.Jwt.Onion.Core.Domain.pdb
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\obj\Debug\net6.0\Eag.Jwt..19C93AA9.Up2Date
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\obj\Debug\net6.0\Eag.Jwt.Onion.Core.App.dll
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\obj\Debug\net6.0\refint\Eag.Jwt.Onion.Core.App.dll
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\obj\Debug\net6.0\Eag.Jwt.Onion.Core.App.pdb
+C:\Users\emira\OneDrive\Belgeler\Projeler\CoreProjeler\Eag.Jwt\Onion\Core\Application\Eag.Jwt.Onion.Core.App\obj\Debug\net6.0\ref\Eag.Jwt.Onion.Core.App.dll

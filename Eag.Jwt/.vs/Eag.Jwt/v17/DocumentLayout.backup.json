@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emira\\OneDrive\\Belgeler\\Projeler\\CoreProjeler\\Eag.Jwt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEB8983-E2E6-4E4C-A563-A8B087C18420}|Onion\\Presantation\\Eag.Jwt.Api\\Eag.Jwt.Api.csproj|c:\\users\\emira\\onedrive\\belgeler\\projeler\\coreprojeler\\eag.jwt\\onion\\presantation\\eag.jwt.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEB8983-E2E6-4E4C-A563-A8B087C18420}|Onion\\Presantation\\Eag.Jwt.Api\\Eag.Jwt.Api.csproj|solutionrelative:onion\\presantation\\eag.jwt.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEB8983-E2E6-4E4C-A563-A8B087C18420}|Onion\\Presantation\\Eag.Jwt.Api\\Eag.Jwt.Api.csproj|c:\\users\\emira\\onedrive\\belgeler\\projeler\\coreprojeler\\eag.jwt\\onion\\presantation\\eag.jwt.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEB8983-E2E6-4E4C-A563-A8B087C18420}|Onion\\Presantation\\Eag.Jwt.Api\\Eag.Jwt.Api.csproj|solutionrelative:onion\\presantation\\eag.jwt.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEB8983-E2E6-4E4C-A563-A8B087C18420}|Onion\\Presantation\\Eag.Jwt.Api\\Eag.Jwt.Api.csproj|c:\\users\\emira\\onedrive\\belgeler\\projeler\\coreprojeler\\eag.jwt\\onion\\presantation\\eag.jwt.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEB8983-E2E6-4E4C-A563-A8B087C18420}|Onion\\Presantation\\Eag.Jwt.Api\\Eag.Jwt.Api.csproj|solutionrelative:onion\\presantation\\eag.jwt.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\emira\\OneDrive\\Belgeler\\Projeler\\CoreProjeler\\Eag.Jwt\\Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\emira\\OneDrive\\Belgeler\\Projeler\\CoreProjeler\\Eag.Jwt\\Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:04:48.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\emira\\OneDrive\\Belgeler\\Projeler\\CoreProjeler\\Eag.Jwt\\Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\emira\\OneDrive\\Belgeler\\Projeler\\CoreProjeler\\Eag.Jwt\\Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:18:45.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\emira\\OneDrive\\Belgeler\\Projeler\\CoreProjeler\\Eag.Jwt\\Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\emira\\OneDrive\\Belgeler\\Projeler\\CoreProjeler\\Eag.Jwt\\Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Onion\\Presantation\\Eag.Jwt.Api\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:18:17.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Eag.Jwt.Front\\Eag.Jwt.Front.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Onion\\Presantation\\Eag.Jwt.Api\\Eag.Jwt.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

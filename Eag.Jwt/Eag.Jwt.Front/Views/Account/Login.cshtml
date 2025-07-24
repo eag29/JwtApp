@@ -1,0 +1,25 @@
+﻿@{
+    Layout = null;
+}
+
+@model UserLoginModel
+
+<form class="w-75 m-5 p-3 shadow px auto" asp-action="Login" asp-controller="Account" method="post" >
+    <div class="mb-3">
+        <label for="@Model.Username" class="form-label">Kullanıcı Adı:</label>
+        <span asp-validation-for="@Model.Username" class="text-danger"></span>
+        <input type="text" class="form-control" asp-for="@Model.Username"/>
+    </div>
+
+    <div class="mb-3">
+        <label for="@Model.Password" class="form-label">Şifreniz:</label>
+        <span asp-validation-for="@Model.Password" class="text-danger"></span>
+        <input type="password" class="form-control" asp-for="@Model.Password">
+    </div>
+
+    <div class="mb-3">
+        <button class="btn btn-primary w-100">Giriş Yap</button>
+    </div>
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+</form>

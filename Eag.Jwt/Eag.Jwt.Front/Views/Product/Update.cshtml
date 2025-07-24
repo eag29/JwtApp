@@ -1,0 +1,47 @@
+﻿@using System.Text.Json
+@{
+    Layout = "_Layout.cshtml";
+}
+
+@model UpdateProductModel
+
+<form class="w-75 m-5 p-3" method="post" asp-action="Update" asp-controller="Product">
+    <input type="hidden" asp-for="@Model.Id" />
+    @{
+        TempData["Categories"] = JsonSerializer.Serialize(Model.Categories);
+    }
+    <div class="mb-3">
+        <label for="@Model.Name" class="form-label">Ürün Adı</label>
+        <span asp-validation-for="@Model.Name" class="text-danger"></span>
+        <input type="text" asp-for="@Model.Name" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label for="@Model.Stock" class="form-label">Stok Sayısı</label>
+        <span asp-validation-for="@Model.Stock" class="text-danger"></span>
+        <input type="text" asp-for="@Model.Stock" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label for="@Model.Price" class="form-label">Ürün Fiyatı</label>
+        <span asp-validation-for="@Model.Price" class="text-danger"></span>
+        <input type="text" asp-for="@Model.Price" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label for="@Model.Status" class="form-label">Ürün Durumu</label>
+        <span asp-validation-for="@Model.Status" class="text-danger"></span>
+        <input type="text" asp-for="@Model.Status" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label for="@Model.CategoryId" class="form-label">Ürün Kategorisi: </label>
+        <select class="form-select" asp-items="@Model.Categories" asp-for="CategoryId"></select>
+    </div>
+
+    <div class="mb-3">
+        <button class="btn btn-primary w-100">Güncelle</button>
+    </div>
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+</form>

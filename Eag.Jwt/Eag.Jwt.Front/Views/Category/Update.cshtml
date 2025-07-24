@@ -1,0 +1,20 @@
+﻿@{
+    Layout = "_Layout.cshtml";
+}
+
+@model CategoryListModel
+
+<form class="w-75 m-5 p-3 mx-auto" method="post" asp-action="Update" asp-controller="Category">
+    <input type="hidden" asp-for="@Model.Id" />
+    <div class="mb-3">
+        <label for="@Model.Definition" class="form-label">Kategori Adı</label>
+        <span asp-validation-for="@Model.Definition" class="text-danger"></span>
+        <input type="text" asp-for="@Model.Definition" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <button class="btn btn-primary w-100">Kaydet</button>
+    </div>
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+</form>
